@@ -1,0 +1,47 @@
+.link{
+    color:"green"
+}
+.getPrm{
+    width: 350px;
+    height: 45px;
+    border-radius: 30px;
+    color: black;
+    font-weight: 600;
+    background-color: #1ED760;
+    
+}
+.getPrm:hover{
+    width: 355px;
+    height: 45px;
+}
+form{
+    margin: auto;
+    width: 350px;
+}
+img{
+    height: 50px;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: -50px;
+}
+.sign{
+    color: white;
+    font-weight: 700;
+    text-align: left;
+    font-size: 40px;
+}
+.btttn{
+    width: 350px;
+    height: 45px;
+    border-radius: 30px;
+    border: 1px solid grey;
+    color: white;
+    font-weight: 600;
+    background-color: #121212;
+    margin-top: 20px;
+}
+.btttn:hover{
+    border: 1px solid white;
+}

@@ -1,0 +1,171 @@
+.logpos{
+   text-align: left;
+  
+}
+.logo{
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
+.bdyprt{
+    height: 650px;
+    width: 100% ;
+    background: linear-gradient( to bottom ,#1ed75f4b 3%,black 35%);
+    
+}
+
+.search{
+    height: 50px;
+    width: 30%;
+    margin: auto;
+    border-radius: 0px;
+}
+.parent{
+    display: grid;
+    grid-template-rows: repeat(6,2fr);
+    position: absolute;
+    top: 50px;
+    left: 140px;
+}
+.child{
+    width:200px;
+    height: 100px;
+    color: white;
+    font-weight: 700;
+    text-align:center;
+    overflow: hidden;
+    /* padding: 10px; */
+}
+img{
+    margin-left: 120px;
+    height: 80px;
+}
+.divtxt{
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+.list{
+    list-style: none;
+    margin-left: 600px;
+    font-weight: 500;
+}
+ul{
+    margin: auto;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+.arrow{
+    padding-left: 200px;
+}
+span{
+    
+    margin-left: 300px;
+}
+.getPrm{
+    width: 230px;
+    height: 45px;
+    border-radius: 30px;
+    color: black;
+    font-weight: 600;
+    background-color: #1ED760;
+   
+    border:none;
+}
+.bodypart2{
+    height: 300px;
+    width: 100%;
+    background-color: #1A1A1A;
+    color: white;
+}
+.footer {
+    background-color: black;
+    color: white;
+    padding: 30px 0;
+  }
+  
+  .footer-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    
+  }
+  
+  .footer-item {
+    padding: 10px;
+  }
+  
+  .nobull {
+    list-style: none;
+  }
+  
+  .footer-link,
+  .footer-social-link,
+  .footer-menu-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover,
+  .footer-social-link:hover,
+  .footer-menu-link:hover {
+    color: rgb(3, 175, 3);
+  }
+  
+  .footer-social ul,
+  .footer-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  .btnpos{
+    position: absolute;
+    top: 20px;
+    left: 1550px;
+    padding-left: 20px;
+  }
+  
+  .footer-menu ul {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+  
+  .footer-social ul li,
+  .footer-menu ul li {
+    margin-right: 20px;
+  }
+  
+  .footer-bottom {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 400px;
+  }
+  .bt1{
+    width: 130px;
+    background-color: white;
+    height: 30px;
+    white-space: nowrap;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .bt2{
+    width: 130px;
+    background-color: black;
+    height: 30px;
+    white-space: nowrap;
+    border-radius: 30px;
+    margin-right: 10px;
+    color: white;
+  }

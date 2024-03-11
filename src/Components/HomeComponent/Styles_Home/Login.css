@@ -1,0 +1,66 @@
+Form{
+    margin-top: 40px;
+    width:600px;
+    background:linear-gradient(to bottom, black 3%, #121212 80%);
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    border-radius: 20px;
+
+}
+.navbg{
+    background-color: black;
+    height: 100px;
+}   
+.logo{
+    margin-left: 100px;
+}
+.body{
+    width: 100%;
+    height: 1000px;
+    background: linear-gradient(to bottom,#121212 3%,black 80% );
+}
+.size{
+    width: 200px;
+    margin: auto;
+}
+.sign{
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+   
+}
+.btttn{
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid grey;
+    color: white;
+    font-weight: 600;
+    background:transparent;
+    margin-top: 20px;
+}
+.sizetxt{
+    width: 350px;
+    margin: auto;
+    height: 60px;
+    background: transparent;
+}
+.getPrm{
+    width: 350px;
+    height: 45px;
+    border-radius: 30px;
+    color: black;
+    font-weight: 600;
+    background-color: #1ED760;
+}
+.ftr{
+    background-color: #121212;
+    width: 100%;
+    height: 30px;
+   position: absolute;
+   top: 1200px;
+
+}
